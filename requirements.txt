@@ -1,5 +1,5 @@
-aiohttp
-apscheduler
-pyrogram
-python-dotenv
-tgcrypto
+aiohttp==3.9.5
+apscheduler==3.10.4
+pyrogram==2.0.106
+python-dotenv==1.0.1
+tgcrypto==1.2.5
